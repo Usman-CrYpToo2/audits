@@ -6,7 +6,7 @@ DEXs and vaults.
 
 | | |
 |---|---|
-| **Engagements** | 17 audits, 2 competitive audits |
+| **Engagements** | 20+ audits (selected public and private listed below), 2 competitive audits |
 | **Findings in public reports** | 196: 21 Critical, 17 High, 38 Medium, 66 Low, 52 Info, 2 Undetermined |
 | **Ecosystems** | Solana (Rust/Anchor), EVM (Solidity), Sui (Move) |
 | **Firms** | BlockApex, BlockGenesys, FailSafe Security |
