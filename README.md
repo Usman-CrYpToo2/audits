@@ -29,9 +29,6 @@ DEXs and vaults.
 | Stakera Lottery | BlockApex | 2024-09 | Solana | Team | 2 | - | 2 | 1 | 1 | [PDF](https://github.com/BlockApex/Audit-Reports/blob/master/Stakera%20Solana%20Final%20Audit%20Report.pdf) |
 | Elektrik Staking | BlockApex | 2024-07 | EVM (LightLink) | Team | 1 | 1 | 2 | - | 3 | [PDF](https://github.com/BlockApex/Audit-Reports/blob/master/Elektrik%20Staking%20Final%20Audit%20Report.pdf) |
 
-C, H, M, L, I: Critical, High, Medium, Low, Informational. DOJO and Stakera each
-also contain one Undetermined finding.
-
 ## Selected findings
 
 | Severity | Protocol | Finding |
@@ -60,7 +57,7 @@ Reports not published.
 | Contest | Platform | Result | Link |
 |---|---|---|---|
 | Axion Protocol | Sherlock | Rewarded; valid Medium findings (`UsmanAtique`) | [Results](https://audits.sherlock.xyz/contests/552?filter=results) |
-| Superposition | Code4rena | Credited in the final report (`usmanatique`); Low findings credited on Cantina | [Report](https://www.code4rena.com/reports/2024-08-superposition) |
+| Superposition | Code4rena | Rewarded; valid High and Medium findings (`usmanatique`) | [Report](https://www.code4rena.com/reports/2024-08-superposition) |
 
 ## Exploit research
 
