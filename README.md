@@ -28,18 +28,6 @@ DEXs and vaults.
 | Stakera Lottery | BlockApex | 2024-09 | Solana | Team | 2 | - | 2 | 1 | 1 | [PDF](https://github.com/BlockApex/Audit-Reports/blob/master/Stakera%20Solana%20Final%20Audit%20Report.pdf) |
 | Elektrik Staking | BlockApex | 2024-07 | EVM (LightLink) | Team | 1 | 1 | 2 | - | 3 | [PDF](https://github.com/BlockApex/Audit-Reports/blob/master/Elektrik%20Staking%20Final%20Audit%20Report.pdf) |
 
-## Selected findings
-
-| Severity | Protocol | Finding |
-|---|---|---|
-| Critical | Nodo AI Vault | Cross-type token substitution: a `CoinType` generic bypass allowed redeeming assets the caller never deposited |
-| Critical | Open Game Protocol | Any signer could configure or reinitialize a bonding curve it did not create |
-| Critical | Open Game Protocol | Token donation to the curve vault broke a strict balance equality check and halted all swaps |
-| Critical | Open Game Staking | Inherited ERC-4626 `withdraw` and `redeem` stayed public, bypassing the one-week withdrawal timelock |
-| Critical | Elektrik Staking | Reward claims validated only the last epoch in the list, so current-epoch rewards could be claimed early |
-| Critical | Stakera Lottery | Reusing one randomness account for both lotteries overwrote the committed slot and blocked the large-lottery payout |
-| High | Meta Pool Stable Verde | No liquidation incentive above 100% LTV, leaving underwater positions as unrecoverable bad debt |
-
 ## Private engagements
 
 Reports not published.
